@@ -4,8 +4,6 @@ import android.os.Handler;
 import android.os.Looper;
 import android.os.Message;
 
-import ru.yandex.practicum.contacts.presentation.main.MainViewModel;
-
 import androidx.annotation.NonNull;
 
 public class Debouncer {
